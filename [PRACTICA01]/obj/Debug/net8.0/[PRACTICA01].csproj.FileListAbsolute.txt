@@ -1,0 +1,14 @@
+C:\Users\Home\source\repos\[PRACTICA01]\obj\Debug\net8.0\_PRACTICA01_.Properties.Resources.resources
+C:\Users\Home\source\repos\[PRACTICA01]\obj\Debug\net8.0\[PRACTICA01].csproj.GenerateResource.cache
+C:\Users\Home\source\repos\[PRACTICA01]\obj\Debug\net8.0\[PRACTICA01].GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\source\repos\[PRACTICA01]\obj\Debug\net8.0\[PRACTICA01].AssemblyInfoInputs.cache
+C:\Users\Home\source\repos\[PRACTICA01]\obj\Debug\net8.0\[PRACTICA01].AssemblyInfo.cs
+C:\Users\Home\source\repos\[PRACTICA01]\obj\Debug\net8.0\[PRACTICA01].csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\[PRACTICA01]\bin\Debug\net8.0\[PRACTICA01].deps.json
+C:\Users\Home\source\repos\[PRACTICA01]\bin\Debug\net8.0\[PRACTICA01].dll
+C:\Users\Home\source\repos\[PRACTICA01]\bin\Debug\net8.0\[PRACTICA01].pdb
+C:\Users\Home\source\repos\[PRACTICA01]\obj\Debug\net8.0\[PRACTICA01].csproj.AssemblyReference.cache
+C:\Users\Home\source\repos\[PRACTICA01]\obj\Debug\net8.0\[PRACTICA01].dll
+C:\Users\Home\source\repos\[PRACTICA01]\obj\Debug\net8.0\refint\[PRACTICA01].dll
+C:\Users\Home\source\repos\[PRACTICA01]\obj\Debug\net8.0\[PRACTICA01].pdb
+C:\Users\Home\source\repos\[PRACTICA01]\obj\Debug\net8.0\ref\[PRACTICA01].dll
